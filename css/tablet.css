@@ -1,0 +1,39 @@
+header {
+    height: 534px;
+}
+
+header img {
+    width: 350px;
+    height: 44px;
+}
+
+.header--title-container {
+    margin-top: auto;
+}
+
+.header--title-container .header--button  {
+   margin-top: 250px;
+}
+
+
+.main-tables-container {
+    display: flex;
+    width: 930px;
+    margin: 0 auto;
+}
+
+.product-cards--container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: auto;
+}
+
+.plans-container--slider {
+    justify-content: center;
+}
+
+.plans-container--card {
+    max-width: 200px;
+    margin: 50px 40px 0;
+}
